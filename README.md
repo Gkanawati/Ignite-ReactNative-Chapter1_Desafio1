@@ -20,7 +20,7 @@
 ### Fotos
 
 <div>
-   <img src="https://user-images.githubusercontent.com/87530595/194120053-66a8573e-2b76-4234-90e5-decd71164a92.png" width="400px" />
+   <img src="https://user-images.githubusercontent.com/87530595/194120053-66a8573e-2b76-4234-90e5-decd71164a92.png" width="450px" />
    <video width="200px" controls>
    <source src="https://user-images.githubusercontent.com/87530595/194120011-9f383315-6bc6-4181-a5d4-b714ce15deee.mp4" type="video/mp4">
    </video>
